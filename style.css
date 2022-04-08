@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap');
+*{
+    font-family: 'Quintessential', cursive;
+}
+body{
+    background-color: rgb(24, 100, 136);
+}
+
+
+.logo{
+    margin-top: 25px;
+}
+.menu{
+    font-size: 25px;
+    text-align: right;
+    
+}
+
+
+
+.hero-section{
+    padding: 6%;
+}
+.hero{
+    align-items: center;
+}
+.hero-img{
+    width: 80%;
+}
+
+/* service part */
+
+.service-section{
+    margin-top: 30px;
+}
+.service{
+    align-items: center;
+}
+/* .sub-service>.col-lg-6>p{
+    color: rgb(23, 15, 59);
+    text-align: center;
+} */
+ 
+/* Banner SEction */
+
+.banner-section{
+    margin-top: 40px;
+    background-color: cadetblue;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.banner>.banner-title,.banner-para{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: rgb(17, 54, 12);
+}
+.banner>.button{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Card Section */
+
+.card-section{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.card{
+    border: none !important;
+}
+
+/* Carousel section */
+
+.d-block,.w-100{
+    height: 600px;
+}
+
+/* Contact section */
+
+.form-control{
+    background: transparent !important;
+}
+input{
+    background: transparent;
+}
+
+footer{
+    background: cadetblue;
+    color: rgb(11, 15, 83);
+}
+.col-lg-3{
+    padding-top: 5%;
+    padding-bottom:6%;
+}
+.copyright{
+    text-align: center;
+}
