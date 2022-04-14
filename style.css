@@ -6,6 +6,13 @@ body{
     background-color: rgb(24, 100, 136);
 }
 
+.navbar{
+    font-size: 23px;
+    background-color: rgb(176, 192, 191);
+}
+.navbar-nav{
+    padding: 30px;
+}
 
 .logo{
     margin-top: 25px;
